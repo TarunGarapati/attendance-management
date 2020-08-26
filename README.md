@@ -1,1 +1,1 @@
-# Tarun
+# Student Attendance Management
