@@ -1,0 +1,152 @@
+.box{
+
+  width: 100%;
+  height:300px;
+  margin-top: 10%; 
+
+
+}
+
+
+
+
+.i1
+{
+    width:20%;
+    height:23%;
+float: left;
+margin-left: 5%;
+display: inline-block;
+position:  absolute; TOP: 300px; LEFT: 10px" ;
+border: .5px  blue;
+outline-color: white;
+outline-style:dashed;
+}
+
+.i1 img {
+   height: 100%;
+   width: 100%;
+}
+
+.i1:hover img {
+  -moz-transform: scale(1.9);
+  -webkit-transform: scale(1.9);
+  transform: scale(1.1);
+}
+.i2
+{
+    width:20%;
+    height:23%;
+    margin-left: 28.5%; 
+    position:  absolute; TOP: 300px; LEFT: 50px"; 
+border: .5px  blue;
+outline-color: white;
+outline-style:dashed;
+
+
+}
+.i2 img {
+   height: 100%;
+   width: 100%;
+}
+.i2:hover img {
+  -moz-transform: scale(1.9);
+  -webkit-transform: scale(1.9);
+  transform: scale(1.1);
+}
+.i3
+{
+   width:20%;
+    height:23%;
+    
+    margin-left: 52%; 
+    position:  absolute; TOP: 300px; LEFT: 100px" ;
+border: .5px  blue;
+outline-color: white;
+outline-style:dashed;
+}
+.i3 img {
+   height: 100%;
+   width: 100%;
+}
+.i3:hover img {
+  -moz-transform: scale(1.9);
+  -webkit-transform: scale(1.9);
+  transform: scale(1.1);
+}
+.i4
+{
+    width:20%;
+    height:23%;
+    
+    margin-left: 75%;
+    position:  absolute; TOP: 300px; LEFT: 150px"; 
+
+   /* float: right;*/
+    border: .5px  blue;
+outline-color: white;
+outline-style:dashed;
+}
+.i4 img {
+   height: 100%;
+   width: 100%;
+}
+
+.i4:hover img {
+  -moz-transform: scale(1.9);
+  -webkit-transform: scale(1.9);
+  transform: scale(1.1);
+}
+.htext
+{
+  text-align: center;
+  margin-left: 10%;
+  margin-right:10%; 
+  color: white;
+  font-size: 130%;
+}
+
+.t1
+{
+    
+     font-family: Arial, Helvetica, sans-serif;
+
+margin-left: 9%;
+position:  absolute; TOP: 470px; LEFT: 10px" ;
+color:white;
+  
+}
+
+
+.t2
+{
+
+   font-family: Arial, Helvetica, sans-serif;
+
+    margin-left: 32.5%;
+    position:  absolute; TOP: 470px; LEFT: 50px"; 
+
+
+}
+.t3
+{
+   font-family: Arial, Helvetica, sans-serif;
+
+    margin-left: 58%;
+    position:  absolute; TOP: 470px; LEFT: 100px" ;
+}
+
+.t4
+{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 79%;
+ position:  absolute; TOP: 470px; LEFT: 150px"; 
+ color:white;
+}
+
+.sai
+{
+  margin-left: 33%;
+}
+
